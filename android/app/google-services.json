@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "44577817781",
+    "project_id": "quanly-sanpham",
+    "storage_bucket": "quanly-sanpham.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44577817781:android:63a38104cec2c6df786afc",
+        "android_client_info": {
+          "package_name": "com.example.quanly_sanpham"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjf6_f4Hh1xmRbrKRpbU7Rz0APqUrB6OA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
